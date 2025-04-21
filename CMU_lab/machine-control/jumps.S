@@ -30,7 +30,7 @@ jump_insns:
         jg      destination
         jnle    destination
 
-//        .skip   97
+	.skip   99
 
 destination:
         ret
